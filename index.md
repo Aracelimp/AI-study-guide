@@ -13,12 +13,22 @@ Los modelos supervisados son aquellos modelos que nos permiten enseñar a la maq
 ```markdown
 Syntax highlighted code block
 
-# Caracteristicas:
+# ML models
 
-Training data:
+1 Supervised Learning
+  1.1 Classification
+            K-Nearest Neighbors
+            Decision Trees 
+            Support Vector Machines
+            Logistic Regression
+  1.2 Regression
+2 Unsupervised Learning
+  2.1 Clustering
+  2.2 Association Rule Learning
+  2.3 Visualization and Dimensionality Reduction
+3 Semisupervised Learning
+4 Reinforcement Learning
 
-
-**Ejemplo: Iris dataset** and _Italic_ and `Code` text
 
 [Supervised Learning: Iris dataset](https://colab.research.google.com/drive/1mNi_S9obg3BOfkFboWOd8dZh32PYQGnW)
 ```
