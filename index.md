@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Machine Learning Fundamentals
 
 You can use the [editor on GitHub](https://github.com/Aracelimp/AI-study-guide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,11 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+1. ¿Qué es Machine Learning?
+2. Supervised Learning vs Unsupervised Learning
+3. Supervised Learning: Iris dataset [AI-study-guide/SupervisedLearningIris.ipynb]
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
