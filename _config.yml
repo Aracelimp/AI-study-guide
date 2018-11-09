@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 ---
 title: Homepage
 menus:
@@ -6,4 +7,3 @@ menus:
     weight: 1
 ---
 
-theme: jekyll-theme-minimal
