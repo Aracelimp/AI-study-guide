@@ -13,12 +13,12 @@ Los modelos supervisados son aquellos modelos que nos permiten enseñar a la maq
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Caracteristicas:
 
-1. Numbered
-2. List
+Training data:
+
 
 **Ejemplo: Iris dataset** and _Italic_ and `Code` text
 
-[https://colab.research.google.com/drive/1mNi_S9obg3BOfkFboWOd8dZh32PYQGnW](Supervised Learning: Iris dataset) and ![Image](src)
+[Supervised Learning: Iris dataset](https://colab.research.google.com/drive/1mNi_S9obg3BOfkFboWOd8dZh32PYQGnW)
 ```
