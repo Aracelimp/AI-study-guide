@@ -1,6 +1,8 @@
-## Machine Learning 
+## Machine Learning  (ML)
 
-"Machine Learning" es parte del campo de estudio de Inteligencia Artificial, por si solo ML son la serie de técnicas enfocadas al aprendizaje automatico de las computadoras.
+"Machine Learning" es parte del campo de estudio de Inteligencia Artificial enfocado al aprendizaje automatico de las computadoras, es decir que las computadoras tengan la habilidad de aprender sin  tener que ser explicitamente progrmadas.
+
+Como ejemplo de aplicaciones ML tenemos el poder catalogar si un email es spam o no, predecir el clima, predecir si un tumor es tipo maligno o no, etc.
 
 Entre los modelos principales de ML se encuentran los de tipo supervisado (Supervised Learning) y los de tipo no-supervisado (Unsupervised Learning) 
 
@@ -16,11 +18,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Ejemplo: Iris dataset** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://colab.research.google.com/drive/1mNi_S9obg3BOfkFboWOd8dZh32PYQGnW](Supervised Learning: Iris dataset) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
