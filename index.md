@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Machine Learning  (ML)
 
 "Machine Learning" es parte del campo de estudio de Inteligencia Artificial enfocado al aprendizaje automatico de las computadoras, es decir que las computadoras tengan la habilidad de aprender sin  tener que ser explicitamente progrmadas.
