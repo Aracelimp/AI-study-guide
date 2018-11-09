@@ -11,8 +11,6 @@ Entre los modelos principales de ML se encuentran los de tipo supervisado (Super
 Los modelos supervisados son aquellos modelos que nos permiten enseñar a la maquina, mediante el uso de datos ya conocidos.
 
 ```markdown
-Syntax highlighted code block
-
 # ML models
 
 1 Supervised Learning
@@ -30,5 +28,6 @@ Syntax highlighted code block
 4 Reinforcement Learning
 
 
-[Supervised Learning: Iris dataset](https://colab.research.google.com/drive/1mNi_S9obg3BOfkFboWOd8dZh32PYQGnW)
+
 ```
+[Supervised Learning: Iris dataset](https://colab.research.google.com/drive/1mNi_S9obg3BOfkFboWOd8dZh32PYQGnW)
