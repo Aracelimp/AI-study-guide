@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 ## Machine Learning  (ML)
