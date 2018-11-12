@@ -2,6 +2,11 @@ theme: jekyll-theme-minimal
 ---
 - title: Home
 ---
+social:
+    - icon: fa-twitter
+      link: "https://twitter.com/AraceliMepi"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/aracelimedina"
 
 urls:
     - text: About Me
