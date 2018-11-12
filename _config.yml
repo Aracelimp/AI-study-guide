@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: Herring Cove
 author: Herring Cove
 baseurl: /herring-cove
@@ -29,3 +30,22 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+=======
+theme: jekyll-theme-minimal
+---
+- title: Home
+---
+social:
+    - icon: fa-twitter
+      link: "https://twitter.com/AraceliMepi"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/aracelimedina"
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: My Projects
+      url: /projects/
+
+
+>>>>>>> 9fe6b755196460265b983116ff5b0d13cf25273d
