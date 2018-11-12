@@ -1,6 +1,12 @@
 theme: jekyll-theme-minimal
 ---
 - title: Home
-- title: Supervised Learning
 ---
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: My Projects
+      url: /projects/
+
 
