@@ -1,14 +1,9 @@
-name: Herring Cove
-author: Herring Cove
-baseurl: /herring-cove
+baseurl: /ara-mp
 description: theme for jekyll
-github: http://www.github.com/arnp
-twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
-linkedin: http://www.linkedin.com
-email: rnpatel[at]me.com
-location: 42°2'16"N   70°12'47"W
-disqus: diqus-username
+github: http://www.github.com/Aracelimp/AI-study-guide
+twitter: http://www.twitter.com/AraceliMepi
+linkedin: https://www.linkedin.com/in/aracelimedina/
+disqus:  Araceli
 
 ##Make sure to edit the above fields, especially for disqus.
 
