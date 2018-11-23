@@ -1,1 +1,14 @@
 theme: jekyll-theme-minimal
+title: AI & Data Sciende study guide
+
+markdown: kramdown
+
+gems:
+  - Gemfile
+  - Gemfile.lock
+  - src
+  - design
+  - node_modules
+  - bower.json
+  - package.json
+  - design
