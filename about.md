@@ -19,5 +19,4 @@ I'm an electronic engineer with most experience in the IT industry. I like to se
 </span>
 
 
-</div>
 
